@@ -375,7 +375,7 @@ namespace simplex
                         showTable(extendedMatrix1, vilni, basis, sum, ocinki);
                         break;
                     case 3:
-                        Console.WriteLine("safsdokg");
+                        Console.WriteLine("BAD");
                         break;
                 }
             }
